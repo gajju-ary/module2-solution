@@ -23,7 +23,7 @@ h1{
 .all-box{
     margin: 10px;
     float: left; 
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 /* Box Unique Colour */
@@ -43,7 +43,7 @@ h2{
     float: right;
     text-align: center;
     width: 130px;
-    border:2px solid black;
+    border:1px solid black;
 }
 /* Title Text Unique Color */
 #title1{
